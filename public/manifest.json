@@ -1,0 +1,17 @@
+{
+  "name": "RetroBoy Emulator",
+  "short_name": "RetroBoy",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a202c",
+  "theme_color": "#1a202c",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23c3c6cb' rx='8'/%3E%3Crect x='8' y='8' width='48' height='32' fill='%238b956d' rx='4'/%3E%3Ccircle cx='48' cy='52' r='4' fill='%23ef4444'/%3E%3Ccircle cx='36' cy='52' r='4' fill='%23ef4444'/%3E%3Crect x='12' y='46' width='16' height='4' fill='%231f2937'/%3E%3Crect x='18' y='40' width='4' height='16' fill='%231f2937'/%3E%3C/svg%3E",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

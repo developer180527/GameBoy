@@ -1,0 +1,6 @@
+{
+  "name": "RetroBoy Emulator PWA",
+  "description": "A portrait-only Gameboy emulator UI featuring dual joysticks, classic control buttons, a pixelated ROM file explorer, local save states, and key mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
